@@ -1,0 +1,30 @@
+var Grade: "70-100"=A, "50-60"=B, "0-40"=F;
+
+if (grade < 70) {
+alert ('B');
+}
+if (grade=89) {
+alert ('A');
+}
+IF (grade > 35) {
+alert (F);
+}
+if (grade > =65) {
+alert ('B');
+}
+if (grade !=40) {
+alert ('B');
+}
+if (grade < 70) {
+alert ('B');
+{else {
+alert('A!');
+}
+if (grade < 70) {
+alert ('B');
+} else if (grade==70) {
+alert('A1');
+}
+if (grade < 69.5) {
+alert ('A');
+}
