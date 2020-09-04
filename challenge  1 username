@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<script>
+
+var username = prompt("Samson Musa Onuche ", "");
+if (Samson Musa Onuche!= null) {
+    document.getElementById("welcome").innerHTML =
+    "Hello " + username + "! How are you doing today?";
+}
+
+
+
+</script>
+
+</head>
+
+<body>
+
+<div id="welcome">My First JavaScript code.</div>
+
+</body>
+</html>
