@@ -21,5 +21,13 @@ if (Samson Musa Onuche!= null) {
 
 <div id="welcome">My First JavaScript code.</div>
 
+function show_alert(Name)
+        {
+            var Name= "Samson Musa";
+            alert("Hello from" + Samson Musa);
+        }
+    </script>
+
+
 </body>
 </html>
