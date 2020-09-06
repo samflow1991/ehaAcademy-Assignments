@@ -1,0 +1,20 @@
+var myList  = ('toyota',  'mazda', 'honda', 'mitsubishi', 'tesla', ,lexus');
+myList(1)= 'toyota';
+
+my list(2)= 'lexus';
+console.Log('toyota');}
+}
+
+for (var i=0; i<myList, length; i++){
+console.Log(my list[lexus])
+}
+
+my  list= 'mercedes-benz';
+console.Log('mercedes-benz');}
+}
+
+var myList =['toyota', 'mazda', 'honda', 'mitsubishi', 'tesla', 'lexus', 'mercedes-benz'];
+
+for (var i=0; 1< myList. length; i++++++) {
+alert('you have '+myList[i]+'in my garage');
+}
